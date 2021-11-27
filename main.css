@@ -1,0 +1,13 @@
+h1 {
+ text-align: center;
+}
+
+#increment-btn {
+ background-color: blueviolet; 
+ text-emphasis-style: bold;
+}
+
+
+#save-el {
+ text-align: center;
+}
